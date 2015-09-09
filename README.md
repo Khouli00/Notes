@@ -2,6 +2,9 @@
 
 ## Useful link
 
+**Ref list**
+
+http://pubs.vmware.com/vsphere-60/index.jsp#nav/1_2_1_0https://www.vmware.com/support/developer/PowerCLI/PowerCLI41U1/html/
 https://communities.vmware.com/community/vmtn/automationtools/powercli/overview
 
 A lot of example :
