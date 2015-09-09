@@ -55,6 +55,8 @@ inventory hierarchy.
 
 ##Datacenter Operations
 
+Info (blog) => http://pipe2text.com/?page_id=2673
+
 ```Powershell
 
 Get-Datacenter
