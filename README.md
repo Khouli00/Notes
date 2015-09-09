@@ -42,17 +42,20 @@ Set-VirtualPortGroup
 
 Managing Events Alarms
 
+```Powershell
 Get-AlarmDefinition -Name "virtual machine*" -Enabled $false
 
 Get-VMHost hostname | Get-AlarmDefinition # Returns all alarms that
 apply to the host “hostname”. Includes alarms defined on this host and
 alarms inherited from the parent entity, or from any ancestors in the
 inventory hierarchy.
-
+```
 
 ###Connect
 
 ##Datacenter Operations
+
+```Powershell
 
 Get-Datacenter
 
@@ -63,10 +66,13 @@ New-Datacenter
 Remove-Datacenter
 
 Set-Datacenter
+```
 
 ##VMware vSphere Server
 
+```Powershell
 New-Datastore
 Remove-Datastore
 Get-Datastore
 Set-Datastore
+```
