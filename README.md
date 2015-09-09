@@ -6,6 +6,8 @@ https://communities.vmware.com/community/vmtn/automationtools/powercli/overview
 
 A lot of example :
 
+https://pubs.vmware.com/vsphere-60/index.jsp#com.vmware.powercli.ug.doc/GUID-3E36F4EA-3742-48BA-BB4B-7E0A2EAAE83E.html
+
 https://pubs.vmware.com/vsphere-60/topic/com.vmware.ICbase/PDF/vsp_powercli_60_usg.pdf
 
 ##Reference example
