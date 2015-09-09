@@ -22,3 +22,18 @@ The first command uses the script block format. The second command uses the comp
 Get-Service | Where-Object {$_.Status -eq "Stopped"}
 PS C:\>Get-Service | where Status -eq "Stopped"
 ````
+
+##Select
+
+Selects objects or object properties.
+
+https://technet.microsoft.com/en-us/library/hh849895%28v=wps.630%29.aspx
+
+EXAMPLE 1 
+
+This command creates objects that have the Name, ID, and working set (WS) properties of process objects.
+
+Windows PowerShell
+
+PS C:\> Get-Process | Select-Object -Property ProcessName, Id, WS
+
