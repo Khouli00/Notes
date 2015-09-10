@@ -21,3 +21,9 @@ $datastore = Get-Datastore "MyDatastoreName"
 ````PowerShell
 New-PSDrive -Location $datastore -Name ds -PSProvider VimDatastore -Root "\"
 ````
+
+Acces :
+````PowerShell
+Set-Location ds:\ 
+ls d:\ 
+````
