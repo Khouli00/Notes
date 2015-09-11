@@ -8,6 +8,7 @@ Python lib :
 
 Other :
 * Glances[https://pypi.python.org/pypi/Glances]
+* Discussion => http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu
 
 ###Classic tools
 * top
