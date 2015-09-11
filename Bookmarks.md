@@ -10,10 +10,10 @@ Other :
 * Glances[https://pypi.python.org/pypi/Glances]
 
 ###Classic tools
-top
-free -m
-vmstat
-iostat 
-iotop
-sar
-netstat 
+* top
+* free -m
+* vmstat
+* iostat 
+* iotop
+* sar
+* netstat 
