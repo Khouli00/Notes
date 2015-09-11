@@ -18,3 +18,7 @@ Other :
 * iotop
 * sar
 * netstat 
+
+#Mounting devices
+
+https://help.ubuntu.com/community/AutomaticallyMountPartitions
