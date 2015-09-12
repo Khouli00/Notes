@@ -27,6 +27,7 @@ https://help.ubuntu.com/community/AutomaticallyMountPartitions
 ##Graphic stuff
 
 yEd Graph Editor
+
 Inkscape
 
 #Windows
